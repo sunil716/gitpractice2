@@ -1,2 +1,5 @@
 logs/
 *.log
+
+bin/
+*.bin
