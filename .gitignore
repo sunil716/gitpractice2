@@ -3,3 +3,5 @@ logs/
 
 bin/
 *.bin
+
+RPM-GPG-KEY.txt
